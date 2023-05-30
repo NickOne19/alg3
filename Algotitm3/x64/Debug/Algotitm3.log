@@ -1,0 +1,4 @@
+﻿  Algotitm3.cpp
+C:\Users\OWNER\source\repos\Algotitm3\Algotitm3.cpp(16,22): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\OWNER\source\repos\Algotitm3\Algotitm3.cpp(22,33): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Algotitm3.vcxproj -> C:\Users\OWNER\source\repos\Algotitm3\x64\Debug\Algotitm3.exe
